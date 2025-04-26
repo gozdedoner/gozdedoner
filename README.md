@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Front-End+Developer;Metaverse+Explorer;Lifelong+Learner🚀&center=true&width=500&height=50">
+</p>
 
-<!--
-**gozdedoner/gozdedoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Gözde! 👋
 
-Here are some ideas to get you started:
+🌟 Front-End Developer | React Enthusiast | Web3 & Metaverse Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about creating interactive, creative, and future-oriented digital experiences.  
+Currently focusing on Front-End Development, Web3 integration, and Metaverse projects. 🚀
+
+🛠️ Technologies I work with:
+- HTML | CSS | JavaScript | **TypeScript**
+- React | Git | GitHub
+- Web3 Basics | NFT integration (learning phase)
+
+🎯 Current Goals:
+- Build unique Front-End & Web3 projects
+- Improve skills in Metaverse development
+- Create my own digital world combining architecture, design, and new technologies.
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/g%C3%B6zde-d%C3%B6ner-67a1228b/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gozdedoner&show_icons=true&theme=radical" alt="Gözde's GitHub Stats" />
+</p>
+
+---
+
+_"Dream big. Code bigger. 🌟"_
