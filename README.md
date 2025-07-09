@@ -4,23 +4,31 @@
 
 # Hello, I'm Gözde! 👋
 
-🌟 Front-End Developer | React Enthusiast | Web3 & Metaverse Explorer
+🎯 **Mid-Level Front-End Developer** | React | TypeScript | Tailwind  
+🚀 Real-World Projects | AI Integration | Creative UI/UX | Web3 & Metaverse Explorer
 
-I'm passionate about creating interactive, creative, and future-oriented digital experiences.  
-Currently focusing on Front-End Development, Web3 integration, and Metaverse projects. 🚀
+I'm passionate about building interactive, future-focused digital experiences.  
+Currently focused on Front-End Development, Web3 integration, and Metaverse design.
 
-🛠️ Technologies I work with:
-- HTML | CSS | JavaScript | **TypeScript**
-- React | Git | GitHub
-- Web3 Basics | NFT integration (learning phase)
+---
 
-🎯 Current Goals:
-- Build unique Front-End & Web3 projects
-- Improve skills in Metaverse development
-- Create my own digital world combining architecture, design, and new technologies.
+🛠️ **Technologies I Work With**  
+- HTML • CSS • JavaScript • **TypeScript**  
+- React • Git • GitHub  
+- Web3 Basics • NFT Integration (learning phase)  
 
-📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/g%C3%B6zde-d%C3%B6ner-67a1228b/)
+---
+
+🎯 **Current Goals**  
+- Develop unique Front-End & Web3 projects  
+- Strengthen skills in Metaverse development  
+- Design my own digital universe combining architecture, design, and technology  
+
+---
+
+📫 **Let’s Connect**  
+[LinkedIn →](https://www.linkedin.com/in/gozdedoner/)
+
 
 ---
 
