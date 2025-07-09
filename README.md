@@ -4,7 +4,7 @@
 
 # Hello, I'm Gözde! 👋
 
-🎯 **Mid-Level Front-End Developer** | React | TypeScript | Tailwind  
+🎯 **Mid-Level Front-End Developer** | React | JavaScript | TypeScript | Tailwind  
 🚀 Real-World Projects | AI Integration | Creative UI/UX | Web3 & Metaverse Explorer
 
 I'm passionate about building interactive, future-focused digital experiences.  
