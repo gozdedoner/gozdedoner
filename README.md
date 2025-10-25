@@ -28,7 +28,7 @@ Currently focused on Front-End Development, Web3 integration, and Metaverse desi
 
 📫 **Let’s Connect**  
 [LinkedIn →](https://www.linkedin.com/in/gozdedoner/)
-Portfolyo: https://gozde-doner.framer.website/
+[Portfolyo →] (https://gozde-doner.framer.website/)
 
 
 
